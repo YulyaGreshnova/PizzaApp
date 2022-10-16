@@ -1,0 +1,189 @@
+{
+    "banners": [
+        {
+            "name": "thirdPizzaFree"
+        },
+        {
+            "name": "forBigCampony"
+        },
+        {
+            "name": "combo"
+        }
+    ],
+    "menu": [
+        {
+            "id": "Пицца",
+            "name": "Пицца",
+            "variants": [
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/CORBLU/NULL/NULL/RU",
+                    "name": "Кордон Блю",
+                    "ingridients": "Ветчина, Курица, Соус Карбонара, Сыр Моцарелла, Сыр Роккфорти",
+                    "price": "569" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/PEPERANC/NULL/NULL/RU",
+                    "name": "Пепперони Ранч",
+                    "ingridients": "Пепперони, Сыр Моцарелла, Соус Чесночный Оригинальный",
+                    "price": "479" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/CHIRANCH/NULL/NULL/RU",
+                    "name": "Чикен Ранч",
+                    "ingridients": "Курица, Свежие томаты, Сыр Моцарелла, Соус Чесночный Оригинальный",
+                    "price": "479" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/PEPDER/NULL/NULL/RU",
+                    "name": "Пепперони по-деревенски",
+                    "ingridients": "Огурцы маринованные, Пепперони, Сыр Моцарелла, Томатный соус",
+                    "price": "289"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/KARPNAPL/NULL/NULL/RU",
+                    "name": "Маргарита Гурме",
+                    "ingridients": "Свежие томаты, Сыр Моцарелла, Томатный соус",
+                    "price": "359"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/4CHEESE/NULL/NULL/RU",
+                    "name": "4 Сыра",
+                    "ingridients": "Соус Карбонара, Сыр Чеддер (тёртый), Сыр Моцарелла, Сыр Роккфорти, Чесночный соус с сыром Пармезан",
+                    "price": "4639"
+                }
+            ]
+        },
+        {
+            "id": "Соусы",
+            "name": "Соусы",
+            "variants": [
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/_DCCH/NULL/NULL/RU",
+                    "name": "Соус Сырный",
+                    "ingridients": "Идеально сочетается с картофелем по-деревенски. Вес – 40 грамм.",
+                    "price": "49" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/_DCTOM/NULL/NULL/RU",
+                    "name": "Соус Томатный",
+                    "ingridients": "Элегантная классика. Вес – 40 грамм.",
+                    "price": "49" 
+                },
+                {
+                    "imageUrl": "https://cdn.papajohns.ru//images/catalog/thumbs/full/2509ef91d108de25c4730e1a31d3f117.png",
+                    "name": "Шоколадный",
+                    "ingridients": "Шоколадный",
+                    "price": "49"
+                },
+                {
+                    "imageUrl": "https://cdn.papajohns.ru//images/catalog/thumbs/full/f4cb325d8d0c41cb7bd71936434af1d8.jpg",
+                    "name": "Тысяча островов",
+                    "ingridients": "",
+                    "price": "49"
+                }
+            ]
+        },
+        {
+            "id": "Закуски",
+            "name": "Закуски",
+            "variants": [
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/SWCBBQ1P/NULL/NULL/RU",
+                    "name": "Сэндвич из печи Чикен BBQ",
+                    "ingridients": "Легендарное сочетание курицы, грибов, лука и соуса BBQ!",
+                    "price": "199" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/JUROLLST/NULL/NULL/RU",
+                    "name": "Сэндвич-ролл Жюльен",
+                    "ingridients": "Лепешка пшеничная, Соус Сметанный с грибами, Сыр Моцарелла, Грибы резаные, Курица",
+                    "price": "179" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/KARPECML/NULL/NULL/RU",
+                    "name": "Фирменный картофель из печи",
+                    "ingridients": "Порция 95 г. Фирменный картофель из печи",
+                    "price": "189"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/KARMAL/NULL/NULL/RU",
+                    "name": "Картофель по-деревенcки",
+                    "ingridients": "Порция 100 г. Сочные дольки молодого картофеля со специями, запеченные в печи.",
+                    "price": "189"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/KIKMAL/NULL/NULL/RU",
+                    "name": "Киккерсы",
+                    "ingridients": "Порция 4 шт. Кусочки 100% натурального куриного филе в хрустящей панировке! Вкусно! ",
+                    "price": "179"
+                },
+            ]
+        },
+        {
+            "id": "Десерты",
+            "name": "Десерты",
+            "variants": [
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/ZAVSMRST/NULL/NULL/RU",
+                    "name": "Десерт Шоколадная лава",
+                    "ingridients": "Нежное хрустящее суфле с начинкой из горячего шоколада",
+                    "price": "229" 
+                },
+                {
+                    "imageUrl": "https://cdn.papajohns.ru//images/catalog/thumbs/full/11590aa8192db2b481dc465e56701046.jpg",
+                    "name": "Мороженое Klondike Двойная Карамель и Ваниль-карамель",
+                    "ingridients": "Двойная Карамель и ваниль-карамель",
+                    "price": "599"
+                },
+                {
+                    "imageUrl": "https://cdn.papajohns.ru//images/catalog/thumbs/full/8dac0f0f5c7d52c5c8ae5b3c24fe6c65.png",
+                    "name": "Сырники",
+                    "ingridients": "Нежные сырники из печи с соусом на выбор",
+                    "price": "169"
+                },
+                {
+                    "imageUrl": "https://cdn.papajohns.ru//images/catalog/thumbs/full/Sweet%20knots.jpg",
+                    "name": "Узелки сладкие",
+                    "ingridients": "Мягкие булочки с корицей и сахарной пудрой",
+                    "price": "149"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/ZAVABRST/NULL/NULL/RU",
+                    "name": "Завитушки с абрикосом",
+                    "ingridients": "Порция 8 шт. Горячие сладкие завитушки с абрикосом, посыпанные сахарной пудрой.",
+                    "price": "129"
+                }
+            ]
+        },
+        {
+            "id": "Напитки",
+            "name": "Напитки",
+            "variants": [
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/LIPLM05/NULL/NULL/RU",
+                    "name": "Lipton Лимон",
+                    "ingridients": "Чай со вкусом лимона Lipton 0,5 литра.",
+                    "price": "99" 
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/AQUAG05/NULL/NULL/RU",
+                    "name": "Aqua Minerale газированная",
+                    "ingridients": "Питьевая вода Aqua Minerale 0,5 литра с газом.",
+                    "price": "79"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/ADR250/NULL/NULL/RU",
+                    "name": "Adrenaline Rush",
+                    "ingridients": "Энергетический напиток Adrenaline Rush 0,25 литра.",
+                    "price": "199"
+                },
+                {
+                    "imageUrl": "https://staticy.dominospizza.ru/api/medium/Product/Global/SOKCHER03/NULL/NULL/RU",
+                    "name": "Сок Любимый",
+                    "ingridients": "Сок Любимый Вишневая черешня 0,3 литра.",
+                    "price": "99"
+                }
+            ]
+        }
+    ]
+}
